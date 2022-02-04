@@ -22,5 +22,5 @@ npm run dev
 
 ## Todo
 
-[] Add error handling
-[] Possibly add auth
+[ ] Add error handling
+[ ] Possibly add auth
